@@ -1,0 +1,13 @@
+{
+  "name": "fda-food-events-downloader",
+  "version": "1.0.0",
+  "description": "Download FDA food adverse event reports via openFDA API",
+  "main": "download-fda-food-events.js",
+  "scripts": {
+    "download": "node ./download-fda-food-events.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
